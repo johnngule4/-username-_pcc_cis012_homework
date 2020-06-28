@@ -1,4 +1,1 @@
-if __name__ == "__main__":
-    #any executable code
-    name = 'johnngule4'
-    print(f'Hello {name}')
+
